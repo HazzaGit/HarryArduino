@@ -1,2 +1,2 @@
 # HarryArduino
- This is a repository containing my Arduino/misc PCB tech learning and side projects
+ This is a repository containing my Arduino/Microcontroller PCB technology side projects and for documenting my learning.
