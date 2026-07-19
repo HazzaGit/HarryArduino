@@ -1,4 +1,4 @@
-//blue cable+
+//blue cable
 const int trigpin = 9;
 
 //green cable
