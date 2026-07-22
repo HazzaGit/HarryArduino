@@ -1,0 +1,15 @@
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\bin\Debug\net8.0-windows\RadarGUI.exe
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\bin\Debug\net8.0-windows\RadarGUI.deps.json
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\bin\Debug\net8.0-windows\RadarGUI.runtimeconfig.json
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\bin\Debug\net8.0-windows\RadarGUI.dll
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\bin\Debug\net8.0-windows\RadarGUI.pdb
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.AssemblyInfoInputs.cache
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.AssemblyInfo.cs
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.csproj.CoreCompileInputs.cache
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.sourcelink.json
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.dll
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\refint\RadarGUI.dll
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.pdb
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\RadarGUI.genruntimeconfig.cache
+C:\Users\harry\Downloads\career\MainProjects\HarryArduino\UNO\ultrasonicsensor\RadarGUI\obj\Debug\net8.0-windows\ref\RadarGUI.dll

@@ -1,6 +1,7 @@
 #include <Servo.h>
 
 
+//blue cable
 const int trigpin = 9;
 
 const int echopin = 10;
