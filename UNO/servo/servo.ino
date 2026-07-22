@@ -1,0 +1,31 @@
+#include <Servo.h>
+
+Servo myservo;  // create servo object to control a servo
+// twelve servo objects can be created on most boards
+
+const int servopin = 8;
+
+
+int pos = 0;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+
+  myservo.attach(servopin);
+  myservo.write(pos);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  for(pos = 0; pos <= 180; pos += 1) {
+    myservo.write(pos);
+    delay(15);
+  }
+
+  for(pos = 180; pos >= 0; pos -= 1) {
+    myservo.write(pos);
+    delay(15);
+  } 
+}
